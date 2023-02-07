@@ -1,11 +1,8 @@
 #include <iostream>
 #include <cmath>
 #include <chrono>
-#include <thread>
 #include <string>
 #include <numeric>
-#include <sstream>
-#include <iomanip>
 #include <algorithm>
 #include "include/functions.h"
 
