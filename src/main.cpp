@@ -12,7 +12,7 @@
 int main() {
     using namespace std::chrono_literals;
     constexpr int64_t start_val = 1;
-    constexpr int64_t stop_val = 100000000; //aka 1e8
+    constexpr int64_t stop_val = 100000000; //aka 1e8.
     constexpr int repeat_val = 10;
     int64_t iteration_length_arr[repeat_val];
     double avg_search_time = 0.0;
